@@ -26,7 +26,7 @@ From creating Minecraft plugins and managing servers to experimenting with virtu
   - PHP ➡ backend scripting for websites
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/> **Virtualization**:
 
-  - **Proxmox**, **VirtualBox**, **Docket** ➡ deploying VMs and Containers under various Linux distros (Debian, Ubuntu, Kali) or services.
+  - **Proxmox**, **VirtualBox**, **Docker** ➡ deploying VMs and Containers under various Linux distros (Debian, Ubuntu, Kali) or services.
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22px"/> **Linux Enthusiast**:
   - Terminal usage, server configuration, system exploration
