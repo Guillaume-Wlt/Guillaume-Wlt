@@ -2,6 +2,8 @@
 
 ### ❤️ Favorite language: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18px"/> **Java**
 
+![](https://komarev.com/ghpvc/?username=Gamordstrimerr&color=blue&style=flat)
+
 ---
 
 ## 👨‍💻 About me
@@ -18,6 +20,14 @@ I build things with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18px"/> **Virtualization** — Docker, Proxmox, VirtualBox
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18px"/> **Linux** — server config, terminal, various distros
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18px"/> **Tools** — Git, GitHub, VS Code, IntelliJ IDEA
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamordstrimerr&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gamordstrimerr&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamordstrimerr&layout=compact&theme=tokyonight)
 
 ---
 
