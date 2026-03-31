@@ -13,7 +13,7 @@ I build things with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
 
 ## 🏆 Skills
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18px"/> **Java** — JavaFX, Spigot/Paper, Spring Boot
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18px"/> **Java** — Swing, Spigot/Paper, Spring Boot
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18px"/> **Web** — HTML, CSS, PHP
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18px"/> **Virtualization** — Docker, Proxmox, VirtualBox
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18px"/> **Linux** — server config, terminal, various distros
@@ -32,6 +32,7 @@ I build things with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
 
 - 🔨 [**WorldCreator**](https://github.com/Gamordstrimerr/WorldCreator) — Minecraft World Generator (Spigot API)
 - 🤖 [**McBotApp**](https://github.com/Gamordstrimerr/McBotApp) — Java TCP Client/Server application
+- 🚀 [**Minecraft Launcher**](https://github.com/Guillaume-Wlt/Minecraft-launcher) — Custom Java launcher using the official Mojang API (Swing, Maven)
 
 ---
 
