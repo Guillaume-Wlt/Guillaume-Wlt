@@ -1,50 +1,38 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to My GitHub Profile!
+# 👋 Welcome to my GitHub!
 
-### ❤️ Favorite Language: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**
+### ❤️ Favorite language: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18px"/> **Java**
 
-## 👨‍💻 About Me
+---
 
-Self-taught and passionate about computers and video games,  
-I’m exploring the world of programming with a strong focus on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px"/> **Java**.
+## 👨‍💻 About me
 
-From creating Minecraft plugins and managing servers to experimenting with virtualization and building small applications, I love crafting things with code.
+Self-taught dev passionate about computers and video games.  
+I build things with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16px"/> **Java** — from Minecraft plugins to backend APIs.
 
-## 🧠 What I'm Learning
+---
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/> **Python**: automation projects and scripts
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> **JavaScript (React.js)**: building front-end apps and working with REST APIs via `XMLHttpRequest`
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px"/> **Dev Tools**: Git, GitHub, VS Code, IntelliJ IDEA
+## 🏆 Skills
 
-## 🏆 My Current Skill Set
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18px"/> **Java** — JavaFX, Spigot/Paper, Spring Boot
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18px"/> **Web** — HTML, CSS, PHP
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18px"/> **Virtualization** — Docker, Proxmox, VirtualBox
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18px"/> **Linux** — server config, terminal, various distros
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18px"/> **Tools** — Git, GitHub, VS Code, IntelliJ IDEA
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28px"/> **Java**:
-  - GUI Apps (JavaFX)
-  - Minecraft Plugins (Spigot, Paper)
-  - Backend APIs (Spring Boot)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22px"/> **Web Development**:
-  - HTML, CSS ➡ front-end basics
-  - PHP ➡ backend scripting for websites
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"/> **Virtualization**:
-
-  - **Proxmox**, **VirtualBox**, **Docker** ➡ deploying VMs and Containers under various Linux distros (Debian, Ubuntu, Kali) or services.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22px"/> **Linux Enthusiast**:
-  - Terminal usage, server configuration, system exploration
+---
 
 ## 🚀 Goals
 
-- 🔧 **Master** the programming languages I’m currently exploring
-- 🧠 **Level up** into a versatile developer ready for any challenge
-- 🤝 **Collaborate** with other devs and contribute to open-source projects
+- Master Java and level up as a versatile developer
+- Collaborate and contribute to open-source projects
 
-## 📂 Featured Projects
+---
 
-- 🔨 [**World Creator**](https://github.com/Gamordstrimerr/WorldCreator)  
-  _Minecraft World Generator using Spigot API (1.8.8-R0.1-SNAPSHOT)_
+## 📂 Featured projects
 
-- 🤖 [**MC Bot App**](https://github.com/Gamordstrimerr/McBotApp)  
-  _Java-based TCP Client/Server App_
+- 🔨 [**WorldCreator**](https://github.com/Gamordstrimerr/WorldCreator) — Minecraft World Generator (Spigot API)
+- 🤖 [**McBotApp**](https://github.com/Gamordstrimerr/McBotApp) — Java TCP Client/Server application
 
-## ✨ Thanks for Visiting!
+---
 
-Feel free to explore my repositories and connect. Let's build something great together! 🚀
+✨ *Thanks for visiting — let's build something great together!*
